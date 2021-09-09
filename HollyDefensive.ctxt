@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HollyDefensive
+comment0.text=\r\n\ Varita\ orientada\ a\ la\ defensa\r\n\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=
+comment1.target=HollyDefensive()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ HollyDefensive\r\n
+comment2.params=name
+comment2.target=HollyDefensive(java.lang.String)
+comment2.text=\r\n\ Constructor\ parametrizado\ de\ la\ clase\ HollyDefensive\r\n
+comment3.params=c
+comment3.target=double\ attackPointsOffensive(Character)
+comment3.text=\r\n\ Metodo\ que\ devuelve\ los\ puntos\ tras\ atacar\ de\ manera\ ofensiva.\r\n\ @param\ character\:\ Personaje\ al\ que\ se\ le\ modificaran\ sus\ puntos\ ofensivos\r\n\ @return\ result\r\n
+comment4.params=c
+comment4.target=double\ resistancePointsDefensive(Character)
+comment4.text=\r\n\ Metodo\ que\ devuelve\ los\ puntos\ de\ resistencia\ tras\ haber\ el\ ataque.\r\n\ @param\ character\:\ Personaje\ al\ que\ se\ le\ modificaran\ sus\ puntos\ de\ resistencia\ o\ defensivos\r\n\ @return\ result\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Defensive
+comment0.text=\r\n\ Describe\ la\ clase\ de\ Personaje\ de\ tipo\ defensivo\r\n\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=
+comment1.target=Defensive()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ Defensive\r\n
+comment2.params=name\ offensive\ defensive\ w
+comment2.target=Defensive(java.lang.String,\ double,\ double,\ Wand)
+comment2.text=\r\n\ Constructor\ parametrizado\ de\ Defensive\r\n
+comment3.params=oponent
+comment3.target=void\ fight(Character)
+comment3.text=\r\n\ Metodo\ mediante\ el\ cual\ el\ personaje\ lucha\ contra\ su\ oponente\ que\ introduzco\ por\ par\u00E1metros.\r\n\ @param\ oponent\r\n
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\r\n\ (non-Javadoc)\r\n\ @see\ java.lang.Object\#equals(java.lang.Object)\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=orderOffensive
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ orderOffensive\ here.\r\n\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=
+comment1.target=orderOffensive()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ orderOffensive\r\n
+comment2.params=name
+comment2.target=orderOffensive(java.lang.String)
+comment2.text=\r\n\ Constructor\ parametrizado\ de\ orderOffensive\ \r\n
+comment3.params=
+comment3.target=void\ orderCharacters()
+comment3.text=\r\n\ Ordena\ los\ personajes\ de\ la\ casa\ con\ el\ comparador\ (de\ menos\ a\ m\u00E1s\ puntos\ ofensivo).\r\n
+numComments=4

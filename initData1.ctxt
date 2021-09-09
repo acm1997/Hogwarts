@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=initData1
+comment0.text=\r\n\ Clase\ para\ iniciar\ los\ datos\ de\ la\ simulaci\u00F3n.\r\n\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=
+comment1.target=initData1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ initData\r\n
+comment2.params=
+comment2.target=void\ initData1()
+comment3.params=numero
+comment3.target=void\ simulation(int)
+numComments=4

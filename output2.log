@@ -1,0 +1,570 @@
+
+houses: 
+------
+house:<HufflepuffHouse>
+character:<Cedric Diggory> <e: 20.0> <o: 16.0> <d: 35.0> <wand: CedricW (OffensiveHawthorn)>
+character:<Susan Bones> <e: 20.0> <o: 20.0> <d: 25.0> <wand: SusanW (OffensiveHawthorn)>
+character:<Silvanus Kettleburn> <e: 20.0> <o: 26.0> <d: 25.0> <wand: SilvanusW (OffensiveHawthorn)>
+character:<Rolf Scamander> <e: 20.0> <o: 20.0> <d: 25.0> <wand: RolfW (OffensiveHawthorn)>
+character:<Pomona Sprout> <e: 20.0> <o: 26.0> <d: 25.0> <wand: PomonaW (OffensiveHawthorn)>
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (OffensiveHawthorn)>
+character:<Newton Scamander> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NewtonW (OffensiveHawthorn)>
+character:<Hannah Abbott> <e: 20.0> <o: 26.0> <d: 25.0> <wand: HannahW (OffensiveHawthorn)>
+
+house:<RavenclawHouse>
+character:<Cho Chang> <e: 20.0> <o: 32.5> <d: 20.0> <wand: ChoW (OffensiveHawthorn)>
+character:<Filius Flitwick> <e: 20.0> <o: 20.8> <d: 35.0> <wand: FiliusW (OffensiveHawthorn)>
+character:<Luna Lovegood> <e: 20.0> <o: 16.0> <d: 35.0> <wand: LunaW (OffensiveHawthorn)>
+
+house:<Slytherin>
+character:<Draco Malfoy> <e: 20.0> <o: 26.0> <d: 25.0> <wand: DracoW (HollyDefensive)>
+
+house:<Gryffindor>
+character:<Ron Weasley> <e: 20.0> <o: 32.5> <d: 20.0> <wand: RonW (HollyDefensive)>
+character:<Harry Potter> <e: 20.0> <o: 26.0> <d: 28.0> <wand: HarryW (HollyDefensive)>
+character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: HermioneW (HollyDefensive)>
+
+new wands:
+--------
+<wand: Aspen (HollyDefensive)>
+<wand: Cypress (HollyDefensive)>
+<wand: Ebony (HollyDefensive)>
+<wand: Hazel (OffensiveHawthorn)>
+<wand: Ivy (OffensiveHawthorn)>
+<wand: Larch (OffensiveHawthorn)>
+<wand: Laurel (OffensiveHawthorn)>
+<wand: Pear (OffensiveHawthorn)>
+<wand: Pine (OffensiveHawthorn)>
+<wand: Reed (OffensiveHawthorn)>
+<wand: Rowan (HollyDefensive)>
+<wand: Spruce (OffensiveHawthorn)>
+<wand: Tamarack (HollyDefensive)>
+<wand: Walnut (OffensiveHawthorn)>
+<wand: Yew (OffensiveHawthorn)>
+
+turn: <0>
+characters who are going to duel: 
+-----------------------------------
+character:<Cedric Diggory> <e: 20.0> <o: 16.0> <d: 35.0> <wand: CedricW (OffensiveHawthorn)>
+character:<Cho Chang> <e: 20.0> <o: 32.5> <d: 20.0> <wand: ChoW (OffensiveHawthorn)>
+character:<Draco Malfoy> <e: 20.0> <o: 26.0> <d: 25.0> <wand: DracoW (HollyDefensive)>
+character:<Ron Weasley> <e: 20.0> <o: 32.5> <d: 20.0> <wand: RonW (HollyDefensive)>
+
+
+duels:
+-----
+<Cedric Diggory> is dueling against <Cho Chang>
+attack points of <Cedric Diggory> are: <34.4>
+resistance points of <Cho Chang> are: <20.0>
+the remaining energy of <Cho Chang> after the duel are: <5.6>
+
+<Cedric Diggory> is dueling against <Draco Malfoy>
+attack points of <Cedric Diggory> are: <34.4>
+resistance points of <Draco Malfoy> are: <45.5>
+the remaining energy of <Draco Malfoy> after the duel are: <20.0>
+
+<Cedric Diggory> is dueling against <Ron Weasley>
+attack points of <Cedric Diggory> are: <34.4>
+resistance points of <Ron Weasley> are: <40.0>
+the remaining energy of <Ron Weasley> after the duel are: <20.0>
+
+<Cho Chang> is dueling against <Cedric Diggory>
+attack points of <Cho Chang> are: <48.86>
+resistance points of <Cedric Diggory> are: <23.0>
+the remaining energy of <Cedric Diggory> after the duel are: <0.0>
+
+<Cho Chang> is dueling against <Draco Malfoy>
+attack points of <Cho Chang> are: <48.86>
+resistance points of <Draco Malfoy> are: <45.5>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Cho Chang> is dueling against <Ron Weasley>
+attack points of <Cho Chang> are: <48.86>
+resistance points of <Ron Weasley> are: <40.0>
+the remaining energy of <Ron Weasley> after the duel are: <11.14>
+
+<Draco Malfoy> is dueling against <Cedric Diggory>
+<Draco Malfoy> is dueling against <Cho Chang>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Cho Chang> are: <8.48>
+the remaining energy of <Cho Chang> after the duel are: <0.0>
+
+<Draco Malfoy> is dueling against <Ron Weasley>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Ron Weasley> are: <32.03>
+the remaining energy of <Ron Weasley> after the duel are: <11.14>
+
+<Ron Weasley> is dueling against <Cedric Diggory>
+<Ron Weasley> is dueling against <Cho Chang>
+<Ron Weasley> is dueling against <Draco Malfoy>
+attack points of <Ron Weasley> are: <17.55>
+resistance points of <Draco Malfoy> are: <42.48>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+
+
+duel results:
+-----------
+
+character:character:<Cedric Diggory> <e: 0.0> <o: 16.0> <d: 35.0> <wand: CedricW (OffensiveHawthorn)> go to dungeon
+character:character:<Cho Chang> <e: 0.0> <o: 32.5> <d: 20.0> <wand: ChoW (OffensiveHawthorn)> go to dungeon
+character:character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: DracoW (HollyDefensive)> returns to the housenew wand assigned: <Aspen (class HollyDefensive)>
+
+character:character:<Ron Weasley> <e: 11.14> <o: 32.5> <d: 20.0> <wand: RonW (HollyDefensive)> returns to the housenew wand assigned: <Cypress (class HollyDefensive)>
+
+
+turn: <1>
+characters who are going to duel: 
+-----------------------------------
+character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Aspen (HollyDefensive)>
+character:<Filius Flitwick> <e: 20.0> <o: 20.8> <d: 35.0> <wand: FiliusW (OffensiveHawthorn)>
+character:<Harry Potter> <e: 20.0> <o: 26.0> <d: 28.0> <wand: HarryW (HollyDefensive)>
+character:<Susan Bones> <e: 20.0> <o: 20.0> <d: 25.0> <wand: SusanW (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Draco Malfoy> is dueling against <Filius Flitwick>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Filius Flitwick> are: <23.0>
+the remaining energy of <Filius Flitwick> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Harry Potter>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Harry Potter> are: <48.8>
+the remaining energy of <Harry Potter> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Susan Bones>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Susan Bones> are: <21.0>
+the remaining energy of <Susan Bones> after the duel are: <20.0>
+
+<Filius Flitwick> is dueling against <Draco Malfoy>
+attack points of <Filius Flitwick> are: <41.12>
+resistance points of <Draco Malfoy> are: <42.48>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Filius Flitwick> is dueling against <Harry Potter>
+attack points of <Filius Flitwick> are: <41.12>
+resistance points of <Harry Potter> are: <48.8>
+the remaining energy of <Harry Potter> after the duel are: <20.0>
+
+<Filius Flitwick> is dueling against <Susan Bones>
+attack points of <Filius Flitwick> are: <41.12>
+resistance points of <Susan Bones> are: <21.0>
+the remaining energy of <Susan Bones> after the duel are: <0.0>
+
+<Harry Potter> is dueling against <Draco Malfoy>
+attack points of <Harry Potter> are: <21.8>
+resistance points of <Draco Malfoy> are: <42.48>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Harry Potter> is dueling against <Filius Flitwick>
+attack points of <Harry Potter> are: <21.8>
+resistance points of <Filius Flitwick> are: <23.0>
+the remaining energy of <Filius Flitwick> after the duel are: <20.0>
+
+<Harry Potter> is dueling against <Susan Bones>
+<Susan Bones> is dueling against <Draco Malfoy>
+<Susan Bones> is dueling against <Filius Flitwick>
+<Susan Bones> is dueling against <Harry Potter>
+
+
+duel results:
+-----------
+
+character:character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Aspen (HollyDefensive)> returns to the housenew wand assigned: <Ebony (class HollyDefensive)>
+
+character:character:<Filius Flitwick> <e: 20.0> <o: 20.8> <d: 35.0> <wand: FiliusW (OffensiveHawthorn)> returns to the housenew wand assigned: <Hazel (class OffensiveHawthorn)>
+
+character:character:<Harry Potter> <e: 20.0> <o: 26.0> <d: 28.0> <wand: HarryW (HollyDefensive)> returns to the housenew wand assigned: <Ivy (class OffensiveHawthorn)>
+
+character:character:<Susan Bones> <e: 0.0> <o: 20.0> <d: 25.0> <wand: SusanW (OffensiveHawthorn)> go to dungeon
+
+turn: <2>
+characters who are going to duel: 
+-----------------------------------
+character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Ebony (HollyDefensive)>
+character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: HermioneW (HollyDefensive)>
+character:<Luna Lovegood> <e: 20.0> <o: 16.0> <d: 35.0> <wand: LunaW (OffensiveHawthorn)>
+character:<Silvanus Kettleburn> <e: 20.0> <o: 26.0> <d: 25.0> <wand: SilvanusW (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Draco Malfoy> is dueling against <Hermione Granger>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Hermione Granger> are: <48.8>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Luna Lovegood>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Luna Lovegood> are: <23.0>
+the remaining energy of <Luna Lovegood> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Silvanus Kettleburn>
+attack points of <Draco Malfoy> are: <19.45>
+resistance points of <Silvanus Kettleburn> are: <21.0>
+the remaining energy of <Silvanus Kettleburn> after the duel are: <20.0>
+
+<Hermione Granger> is dueling against <Draco Malfoy>
+attack points of <Hermione Granger> are: <21.8>
+resistance points of <Draco Malfoy> are: <42.48>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Hermione Granger> is dueling against <Luna Lovegood>
+attack points of <Hermione Granger> are: <21.8>
+resistance points of <Luna Lovegood> are: <23.0>
+the remaining energy of <Luna Lovegood> after the duel are: <20.0>
+
+<Hermione Granger> is dueling against <Silvanus Kettleburn>
+attack points of <Hermione Granger> are: <21.8>
+resistance points of <Silvanus Kettleburn> are: <21.0>
+the remaining energy of <Silvanus Kettleburn> after the duel are: <19.2>
+
+<Luna Lovegood> is dueling against <Draco Malfoy>
+attack points of <Luna Lovegood> are: <34.4>
+resistance points of <Draco Malfoy> are: <42.48>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Luna Lovegood> is dueling against <Hermione Granger>
+attack points of <Luna Lovegood> are: <34.4>
+resistance points of <Hermione Granger> are: <48.8>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+<Luna Lovegood> is dueling against <Silvanus Kettleburn>
+attack points of <Luna Lovegood> are: <34.4>
+resistance points of <Silvanus Kettleburn> are: <20.36>
+the remaining energy of <Silvanus Kettleburn> after the duel are: <5.16>
+
+<Silvanus Kettleburn> is dueling against <Draco Malfoy>
+attack points of <Silvanus Kettleburn> are: <39.5>
+resistance points of <Draco Malfoy> are: <42.48>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Silvanus Kettleburn> is dueling against <Hermione Granger>
+attack points of <Silvanus Kettleburn> are: <39.5>
+resistance points of <Hermione Granger> are: <48.8>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+<Silvanus Kettleburn> is dueling against <Luna Lovegood>
+attack points of <Silvanus Kettleburn> are: <39.5>
+resistance points of <Luna Lovegood> are: <23.0>
+the remaining energy of <Luna Lovegood> after the duel are: <3.5>
+
+
+
+duel results:
+-----------
+
+character:character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Ebony (HollyDefensive)> returns to the housenew wand assigned: <Larch (class OffensiveHawthorn)>
+
+character:character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: HermioneW (HollyDefensive)> returns to the housenew wand assigned: <Laurel (class OffensiveHawthorn)>
+
+character:character:<Luna Lovegood> <e: 3.5> <o: 16.0> <d: 35.0> <wand: LunaW (OffensiveHawthorn)> returns to the housenew wand assigned: <Pear (class OffensiveHawthorn)>
+
+character:character:<Silvanus Kettleburn> <e: 5.16> <o: 26.0> <d: 25.0> <wand: SilvanusW (OffensiveHawthorn)> returns to the housenew wand assigned: <Pine (class OffensiveHawthorn)>
+
+
+turn: <3>
+characters who are going to duel: 
+-----------------------------------
+character:<Ron Weasley> <e: 11.14> <o: 32.5> <d: 20.0> <wand: Cypress (HollyDefensive)>
+character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Larch (OffensiveHawthorn)>
+character:<Filius Flitwick> <e: 20.0> <o: 20.8> <d: 35.0> <wand: Hazel (OffensiveHawthorn)>
+character:<Rolf Scamander> <e: 20.0> <o: 20.0> <d: 25.0> <wand: RolfW (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Ron Weasley> is dueling against <Draco Malfoy>
+attack points of <Ron Weasley> are: <17.55>
+resistance points of <Draco Malfoy> are: <18.31>
+the remaining energy of <Draco Malfoy> after the duel are: <16.64>
+
+<Ron Weasley> is dueling against <Filius Flitwick>
+attack points of <Ron Weasley> are: <17.55>
+resistance points of <Filius Flitwick> are: <23.0>
+the remaining energy of <Filius Flitwick> after the duel are: <20.0>
+
+<Ron Weasley> is dueling against <Rolf Scamander>
+attack points of <Ron Weasley> are: <17.55>
+resistance points of <Rolf Scamander> are: <21.0>
+the remaining energy of <Rolf Scamander> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Ron Weasley>
+attack points of <Draco Malfoy> are: <46.38>
+resistance points of <Ron Weasley> are: <32.03>
+the remaining energy of <Ron Weasley> after the duel are: <0.0>
+
+<Draco Malfoy> is dueling against <Filius Flitwick>
+attack points of <Draco Malfoy> are: <46.38>
+resistance points of <Filius Flitwick> are: <23.0>
+the remaining energy of <Filius Flitwick> after the duel are: <0.0>
+
+<Draco Malfoy> is dueling against <Rolf Scamander>
+attack points of <Draco Malfoy> are: <46.38>
+resistance points of <Rolf Scamander> are: <21.0>
+the remaining energy of <Rolf Scamander> after the duel are: <0.0>
+
+<Filius Flitwick> is dueling against <Ron Weasley>
+<Filius Flitwick> is dueling against <Draco Malfoy>
+<Filius Flitwick> is dueling against <Rolf Scamander>
+<Rolf Scamander> is dueling against <Ron Weasley>
+<Rolf Scamander> is dueling against <Draco Malfoy>
+<Rolf Scamander> is dueling against <Filius Flitwick>
+
+
+duel results:
+-----------
+
+character:character:<Ron Weasley> <e: 0.0> <o: 32.5> <d: 20.0> <wand: Cypress (HollyDefensive)> go to dungeon
+character:character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Larch (OffensiveHawthorn)> returns to the housenew wand assigned: <Reed (class OffensiveHawthorn)>
+
+character:character:<Filius Flitwick> <e: 0.0> <o: 20.8> <d: 35.0> <wand: Hazel (OffensiveHawthorn)> go to dungeon
+character:character:<Rolf Scamander> <e: 0.0> <o: 20.0> <d: 25.0> <wand: RolfW (OffensiveHawthorn)> go to dungeon
+
+turn: <4>
+characters who are going to duel: 
+-----------------------------------
+character:<Luna Lovegood> <e: 3.5> <o: 16.0> <d: 35.0> <wand: Pear (OffensiveHawthorn)>
+character:<Draco Malfoy> <e: 16.64> <o: 26.0> <d: 25.0> <wand: Reed (OffensiveHawthorn)>
+character:<Harry Potter> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Ivy (OffensiveHawthorn)>
+character:<Pomona Sprout> <e: 20.0> <o: 26.0> <d: 25.0> <wand: PomonaW (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Luna Lovegood> is dueling against <Draco Malfoy>
+attack points of <Luna Lovegood> are: <24.5>
+resistance points of <Draco Malfoy> are: <18.31>
+the remaining energy of <Draco Malfoy> after the duel are: <10.45>
+
+<Luna Lovegood> is dueling against <Harry Potter>
+attack points of <Luna Lovegood> are: <24.5>
+resistance points of <Harry Potter> are: <21.6>
+the remaining energy of <Harry Potter> after the duel are: <17.1>
+
+<Luna Lovegood> is dueling against <Pomona Sprout>
+attack points of <Luna Lovegood> are: <24.5>
+resistance points of <Pomona Sprout> are: <21.0>
+the remaining energy of <Pomona Sprout> after the duel are: <16.5>
+
+<Draco Malfoy> is dueling against <Luna Lovegood>
+attack points of <Draco Malfoy> are: <42.67>
+resistance points of <Luna Lovegood> are: <9.8>
+the remaining energy of <Luna Lovegood> after the duel are: <0.0>
+
+<Draco Malfoy> is dueling against <Harry Potter>
+attack points of <Draco Malfoy> are: <42.67>
+resistance points of <Harry Potter> are: <19.28>
+the remaining energy of <Harry Potter> after the duel are: <0.0>
+
+<Draco Malfoy> is dueling against <Pomona Sprout>
+attack points of <Draco Malfoy> are: <42.67>
+resistance points of <Pomona Sprout> are: <18.2>
+the remaining energy of <Pomona Sprout> after the duel are: <0.0>
+
+<Harry Potter> is dueling against <Luna Lovegood>
+<Harry Potter> is dueling against <Draco Malfoy>
+<Harry Potter> is dueling against <Pomona Sprout>
+<Pomona Sprout> is dueling against <Luna Lovegood>
+<Pomona Sprout> is dueling against <Draco Malfoy>
+<Pomona Sprout> is dueling against <Harry Potter>
+
+
+duel results:
+-----------
+
+character:character:<Luna Lovegood> <e: 0.0> <o: 16.0> <d: 35.0> <wand: Pear (OffensiveHawthorn)> go to dungeon
+character:character:<Draco Malfoy> <e: 10.45> <o: 26.0> <d: 25.0> <wand: Reed (OffensiveHawthorn)> returns to the housenew wand assigned: <Rowan (class HollyDefensive)>
+
+character:character:<Harry Potter> <e: 0.0> <o: 26.0> <d: 28.0> <wand: Ivy (OffensiveHawthorn)> go to dungeon
+character:character:<Pomona Sprout> <e: 0.0> <o: 26.0> <d: 25.0> <wand: PomonaW (OffensiveHawthorn)> go to dungeon
+
+turn: <5>
+characters who are going to duel: 
+-----------------------------------
+character:<Draco Malfoy> <e: 10.45> <o: 26.0> <d: 25.0> <wand: Rowan (HollyDefensive)>
+character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Laurel (OffensiveHawthorn)>
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Draco Malfoy> is dueling against <Hermione Granger>
+attack points of <Draco Malfoy> are: <15.11>
+resistance points of <Hermione Granger> are: <21.6>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Nymphadora Tonks>
+attack points of <Draco Malfoy> are: <15.11>
+resistance points of <Nymphadora Tonks> are: <21.0>
+the remaining energy of <Nymphadora Tonks> after the duel are: <20.0>
+
+<Hermione Granger> is dueling against <Draco Malfoy>
+attack points of <Hermione Granger> are: <48.4>
+resistance points of <Draco Malfoy> are: <36.91>
+the remaining energy of <Draco Malfoy> after the duel are: <0.0>
+
+<Hermione Granger> is dueling against <Nymphadora Tonks>
+attack points of <Hermione Granger> are: <48.4>
+resistance points of <Nymphadora Tonks> are: <21.0>
+the remaining energy of <Nymphadora Tonks> after the duel are: <0.0>
+
+<Nymphadora Tonks> is dueling against <Draco Malfoy>
+<Nymphadora Tonks> is dueling against <Hermione Granger>
+
+
+duel results:
+-----------
+
+character:character:<Draco Malfoy> <e: 0.0> <o: 26.0> <d: 25.0> <wand: Rowan (HollyDefensive)> go to dungeon
+character:character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Laurel (OffensiveHawthorn)> returns to the housenew wand assigned: <Spruce (class OffensiveHawthorn)>
+
+character:character:<Nymphadora Tonks> <e: 0.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (OffensiveHawthorn)> go to dungeon
+
+turn: <6>
+characters who are going to duel: 
+-----------------------------------
+character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Spruce (OffensiveHawthorn)>
+character:<Newton Scamander> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NewtonW (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Hermione Granger> is dueling against <Newton Scamander>
+attack points of <Hermione Granger> are: <48.4>
+resistance points of <Newton Scamander> are: <21.0>
+the remaining energy of <Newton Scamander> after the duel are: <0.0>
+
+<Newton Scamander> is dueling against <Hermione Granger>
+
+
+duel results:
+-----------
+
+character:character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Spruce (OffensiveHawthorn)> returns to the housenew wand assigned: <Tamarack (class HollyDefensive)>
+
+character:character:<Newton Scamander> <e: 0.0> <o: 20.0> <d: 25.0> <wand: NewtonW (OffensiveHawthorn)> go to dungeon
+
+turn: <7>
+characters who are going to duel: 
+-----------------------------------
+character:<Hannah Abbott> <e: 20.0> <o: 26.0> <d: 25.0> <wand: HannahW (OffensiveHawthorn)>
+character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Tamarack (HollyDefensive)>
+
+
+duels:
+-----
+<Hannah Abbott> is dueling against <Hermione Granger>
+attack points of <Hannah Abbott> are: <48.4>
+resistance points of <Hermione Granger> are: <48.8>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+<Hermione Granger> is dueling against <Hannah Abbott>
+attack points of <Hermione Granger> are: <21.8>
+resistance points of <Hannah Abbott> are: <21.0>
+the remaining energy of <Hannah Abbott> after the duel are: <19.2>
+
+
+
+duel results:
+-----------
+
+character:character:<Hannah Abbott> <e: 19.2> <o: 26.0> <d: 25.0> <wand: HannahW (OffensiveHawthorn)> returns to the housenew wand assigned: <Walnut (class OffensiveHawthorn)>
+
+character:character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Tamarack (HollyDefensive)> returns to the housenew wand assigned: <Yew (class OffensiveHawthorn)>
+
+
+turn: <8>
+characters who are going to duel: 
+-----------------------------------
+character:<Silvanus Kettleburn> <e: 5.16> <o: 26.0> <d: 25.0> <wand: Pine (OffensiveHawthorn)>
+character:<Hermione Granger> <e: 20.0> <o: 26.0> <d: 28.0> <wand: Yew (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Silvanus Kettleburn> is dueling against <Hermione Granger>
+attack points of <Silvanus Kettleburn> are: <39.5>
+resistance points of <Hermione Granger> are: <21.6>
+the remaining energy of <Hermione Granger> after the duel are: <2.1>
+
+<Hermione Granger> is dueling against <Silvanus Kettleburn>
+attack points of <Hermione Granger> are: <37.66>
+resistance points of <Silvanus Kettleburn> are: <9.13>
+the remaining energy of <Silvanus Kettleburn> after the duel are: <0.0>
+
+
+
+duel results:
+-----------
+
+character:character:<Silvanus Kettleburn> <e: 0.0> <o: 26.0> <d: 25.0> <wand: Pine (OffensiveHawthorn)> go to dungeon
+
+
+turn: <9>
+characters who are going to duel: 
+-----------------------------------
+character:<Hermione Granger> <e: 2.1> <o: 26.0> <d: 28.0> <wand: Yew (OffensiveHawthorn)>
+character:<Hannah Abbott> <e: 19.2> <o: 26.0> <d: 25.0> <wand: Walnut (OffensiveHawthorn)>
+
+
+duels:
+-----
+<Hermione Granger> is dueling against <Hannah Abbott>
+attack points of <Hermione Granger> are: <37.66>
+resistance points of <Hannah Abbott> are: <20.36>
+the remaining energy of <Hannah Abbott> after the duel are: <1.9>
+
+<Hannah Abbott> is dueling against <Hermione Granger>
+attack points of <Hannah Abbott> are: <37.54>
+resistance points of <Hermione Granger> are: <7.28>
+the remaining energy of <Hermione Granger> after the duel are: <0.0>
+
+
+
+duel results:
+-----------
+
+character:character:<Hermione Granger> <e: 0.0> <o: 26.0> <d: 28.0> <wand: Yew (OffensiveHawthorn)> go to dungeon
+
+
+end of the simulation:
+----------------------
+houses: 
+------
+house:<HufflepuffHouse>
+character:<Hannah Abbott> <e: 1.9> <o: 26.0> <d: 25.0> <wand: Walnut (OffensiveHawthorn)>
+
+house:<RavenclawHouse>
+
+house:<Slytherin>
+
+house:<Gryffindor>
+
+new wands:
+--------
+dungeon characters:
+-------------------
+character:<Cedric Diggory> <e: 0.0> <o: 16.0> <d: 35.0> <wand: CedricW (OffensiveHawthorn)>
+character:<Cho Chang> <e: 0.0> <o: 32.5> <d: 20.0> <wand: ChoW (OffensiveHawthorn)>
+character:<Susan Bones> <e: 0.0> <o: 20.0> <d: 25.0> <wand: SusanW (OffensiveHawthorn)>
+character:<Ron Weasley> <e: 0.0> <o: 32.5> <d: 20.0> <wand: Cypress (HollyDefensive)>
+character:<Filius Flitwick> <e: 0.0> <o: 20.8> <d: 35.0> <wand: Hazel (OffensiveHawthorn)>
+character:<Rolf Scamander> <e: 0.0> <o: 20.0> <d: 25.0> <wand: RolfW (OffensiveHawthorn)>
+character:<Luna Lovegood> <e: 0.0> <o: 16.0> <d: 35.0> <wand: Pear (OffensiveHawthorn)>
+character:<Harry Potter> <e: 0.0> <o: 26.0> <d: 28.0> <wand: Ivy (OffensiveHawthorn)>
+character:<Pomona Sprout> <e: 0.0> <o: 26.0> <d: 25.0> <wand: PomonaW (OffensiveHawthorn)>
+character:<Draco Malfoy> <e: 0.0> <o: 26.0> <d: 25.0> <wand: Rowan (HollyDefensive)>
+character:<Nymphadora Tonks> <e: 0.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (OffensiveHawthorn)>
+character:<Newton Scamander> <e: 0.0> <o: 20.0> <d: 25.0> <wand: NewtonW (OffensiveHawthorn)>
+character:<Silvanus Kettleburn> <e: 0.0> <o: 26.0> <d: 25.0> <wand: Pine (OffensiveHawthorn)>
+character:<Hermione Granger> <e: 0.0> <o: 26.0> <d: 28.0> <wand: Yew (OffensiveHawthorn)>
+
+the winner house is:
+-------------------
+house:<HufflepuffHouse>
+character:<Hannah Abbott> <e: 1.9> <o: 26.0> <d: 25.0> <wand: Walnut (OffensiveHawthorn)>
+

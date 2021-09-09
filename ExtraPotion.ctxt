@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ExtraPotion
+comment0.text=\r\n\ Se\ usa\ para\ potenciar\ los\ puntos\ ofensivos\ o\ defensivos.\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=
+comment1.target=ExtraPotion()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ Potion\r\n
+comment2.params=c
+comment2.target=void\ use(Character)
+comment2.text=\r\n\ Clase\ que\ define\ un\ uso\ para\ la\ poci\u00F3n\r\n\ @param\ c\:\ Personaje\ al\ que\ se\ le\ aplicar\u00E1\ los\ efectos\ de\ la\ poci\u00F3n\ \r\n
+numComments=3

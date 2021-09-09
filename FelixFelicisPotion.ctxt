@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FelixFelicisPotion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FelixFelicisPotion\ here.\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=
+comment1.target=FelixFelicisPotion()
+comment1.text=\r\n\ Constructor\ por\ defecto\ de\ la\ clase\ FelixFelicisPotion\r\n
+comment2.params=c
+comment2.target=void\ use(Character)
+comment2.text=\r\n\ Incrementa\ los\ puntos\ ofensivos\ del\ personaje\ que\ pasas\ por\ par\u00E1metro.\r\n\ @param\ c\r\n
+numComments=3

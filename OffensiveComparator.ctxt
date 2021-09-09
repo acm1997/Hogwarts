@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OffensiveComparator
+comment0.text=\r\n\ Clase\ comparador\ de\ dos\ personajes\ por\ sus\ puntos\ osfensivos.\r\n\r\n\ @author\ Angel\ Ca\u00F1ada\ y\ Juan\ Manuel\ Mancera.\r\n\ @version\ 5-12-2019\r\n\ Nombre\ del\ grupo\:\ HogwartsAJ\r\n
+comment1.params=c1\ c2
+comment1.target=int\ compare(Character,\ Character)
+numComments=2
